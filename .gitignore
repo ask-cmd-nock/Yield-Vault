@@ -2,5 +2,5 @@ out/
 cache/
 node_modules/
 broadcast/
-lib/
+/lib/
 .env
